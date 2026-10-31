@@ -1,0 +1,46 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.idea/
+.vscode/
+.directory
+.DS_Store
+/build
+app/build/
+.cxx/
+app/.cxx/
+
+# Built application files
+*.apk
+*.aar
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Log Files
+*.log
+
+# Keystore files
+*.jks
+*.keystore
+
+# Native binaries
+mesh_serializer
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
